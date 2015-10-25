@@ -10,4 +10,6 @@ After clone the project run:
 
 Done. You may be able to see your desired URL using Physical Web app on your Mobile Device.
 
+It works in any computer with Bluetooth 4.0 Module (check your computer specifications). You can run even into a RaspberryPi with a Bluetooth 4.0 USB Module!  
+
 Other examples of Eddystone specification implementation you can find at [https://github.com/don/node-eddystone-beacon](https://github.com/don/node-eddystone-beacon)

@@ -8,4 +8,6 @@ var options = {
   tlmPeriod: 10      // every 10 advertisements
 };
 
-beacon.advertiseUrl('http://www.paypal.com', [options]);
+var myUrl = 'https://ppd.io/jb';
+
+beacon.advertiseUrl('https://ppd.io/jb', [options]);
