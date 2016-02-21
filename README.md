@@ -5,7 +5,7 @@
 
 After clone the project run:
 
-1. ```$ npm install eddystone-url --save```
+1. ```$ npm install eddystone-beacon --save```
 2. ```$ node index.js```
 
 Done. You may be able to see your desired URL using Physical Web app on your Mobile Device.
