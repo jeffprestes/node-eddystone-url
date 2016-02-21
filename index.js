@@ -8,6 +8,6 @@ var options = {
   tlmPeriod: 10      // every 10 advertisements
 };
 
-var myUrl = 'https://ppd.io/jb';
+var myUrl = 'http://bit.ly/1Q3Iani';
 
-beacon.advertiseUrl('https://ppd.io/jb', [options]);
+beacon.advertiseUrl(myURL, [options]);
