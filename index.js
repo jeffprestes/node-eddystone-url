@@ -10,4 +10,4 @@ var options = {
 
 var myUrl = 'http://bit.ly/1Q3Iani';
 
-beacon.advertiseUrl(myURL, [options]);
+beacon.advertiseUrl(myUrl, [options]);
