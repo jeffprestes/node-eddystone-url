@@ -8,6 +8,8 @@ var options = {
   tlmPeriod: 10      // every 10 advertisements
 };
 
-var myUrl = 'http://bit.ly/1Q3Iani';
+var myPayPalMe = 'http://bit.ly/1Q3Iani';
+var myLinkedIn = 'http://bit.ly/1SLiO3n';
+var myGitHub = 'http://bit.ly/1Ld89Mg';
 
-beacon.advertiseUrl(myUrl, [options]);
+beacon.advertiseUrl(myGitHub, [options]);
