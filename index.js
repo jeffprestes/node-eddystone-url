@@ -1,6 +1,4 @@
-var Beacon = require('./node_modules/eddystone-beacon/lib/beacon');
-
-beacon = new Beacon();
+var beacon = require('eddystone-beacon');
 
 var options = {
   txPowerLevel: -22,  // override TX Power Level, default value is -21,
